@@ -1,0 +1,51 @@
+body{
+    background-color: #f1f0f7;
+}
+
+.stopwatch{
+
+    width: 90%;
+    max-width: 600px;
+    background: black;
+    background-size:cover ;
+    background-position: center;
+    text-align: center;
+    padding: 40px 0;
+    color: #fff;
+    margin: 200px auto 0;
+    box-shadow: 0 5px 8px rgba(0,0,0,0.8);
+}
+
+button{
+    width: 100px;
+    min-height: 30px;
+    border: none;
+    outline: 0;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 25px;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+.red{
+    background-color: red;
+    &:hover{
+        background-color: rgb(181, 3, 3);
+    }
+}
+
+.green{
+    background-color:green;
+    &:hover{
+        background-color: rgb(2, 97, 2);
+    }
+}
+
+.yellow{
+    background-color: orange;
+    &:hover{
+        background-color: rgb(212, 139, 3);
+    }
+}
