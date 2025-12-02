@@ -1,5 +1,5 @@
 # Simple Calculator 🔢
-# Simple Calculator 🔢
+
 
 This is a simple calculator web project built using **HTML**, **CSS**, and **JavaScript**.
 It performs basic arithmetic operations like:
