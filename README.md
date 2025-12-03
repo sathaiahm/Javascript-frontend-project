@@ -43,5 +43,3 @@ A collection of small, self-contained frontend projects built with plain HTML, C
 - Add new demos as new folders with the same structure (`index.html`, `index.css`, `index.js`).
 - Open a pull request with a clear description and demo screenshots.
 
-## License
-This repository contains example/demo code — add a license file if you plan to publish or share this work publicly.
